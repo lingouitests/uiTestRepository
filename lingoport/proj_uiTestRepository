@@ -3,12 +3,12 @@
    <model-version>3.2</model-version>
    <!--Group name must match the group name option -->
    <group-name>CET</group-name>
-   <project-name>MicroservicesTaxiAggregator</project-name>
+   <project-name>uiTestRepository</project-name>
 	<project-desc>This is a sample LRM Project definition file, configured to support Java properties files</project-desc>
 	<!-- Example, linux -->
 	<!--<top-level-dir>/var/lib/job/workspace/acme/source</top-level-dir>-->
 	<!-- Example, windows -->
-	<top-level-dir>/var/lib/jenkins/jobs/CET.MicroservicesTaxiAggregator/workspace/MicroservicesTaxiAggregatorWidget-master/resources</top-level-dir>
+	<top-level-dir>/var/lib/jenkins/jobs/lingouitests.uiTestRepository/workspace/uiTestRepository-master/resources</top-level-dir>
 	<detect-errors>
 	    <!-- if set to '0' (false), then the 'missed translation' error will not be triggered 
 			if the non-base file has the same text as the base file. 
