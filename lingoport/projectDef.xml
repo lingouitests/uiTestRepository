@@ -12,8 +12,8 @@
       <proxy-port></proxy-port>
     </optional>
   </login>
-  <project-path>/var/lib/jenkins/jobs/CET.NOAAWeather/workspace/NOAAWeatherWidget-master/</project-path>
-  <project-name>NOAAWeather</project-name>
+  <project-path>/var/lib/jenkins/jobs/lingouitests.uiTestRepository/workspace/uiTestRepository-master/</project-path>
+  <project-name>uiTestRepository</project-name>
   <report-path>globalyzer-lite-reports</report-path>
   <report-type>ScanDetailedXML</report-type>
   <data-dictionary-location>/var/lib/jenkins/.globalyzer</data-dictionary-location>
